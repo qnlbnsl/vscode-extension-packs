@@ -1,0 +1,37 @@
+{
+  "name": "vscode-base",
+  "displayName": "vscode-base",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "qnlbnsl",
+  "author": {
+    "name": "Kunal Bansal",
+    "email": "qnlbnsl@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qnlbnsl/vscode-base"
+  },
+  "bugs":{
+    "url": "https://github.com/qnlbnsl/vscode-base/issues"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+		"color": "#1e415e",
+		"theme": "dark"
+	},
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "keywords": [
+    "vscode",
+    "base",
+    "extension",
+    "pack"],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+  ]
+}
